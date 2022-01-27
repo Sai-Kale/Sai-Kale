@@ -1,6 +1,6 @@
 # Hi, I am Saikumar Kale 👋🏾 💻 :printer:
 
-Trying to help DevOps, Site Reliability Engineers and System guys to grow. I am infrastructure, cloud and site reliability engineer and a AI/ML enthusiast. 
+Trying to help DevOps, SRE, MLOps and System guys to grow. I am infrastructure, cloud and site reliability engineer and a AI/ML enthusiast. 
 
 - Founder of which is totally free content platform for DevOps, Site Reliablity Engineers and software engineers. I like to solve problems at scale with infrastrucutre and code and write about them. 🌎
 
