@@ -12,10 +12,10 @@ Trying to help DevOps, Site Reliability Engineers and System guys to grow. I am 
 
 ## Find me around the web 🌎: <a href="https://github.com/SK_ML-DevOps">Saikumar Kale</a>
 - Articles and blogs on DevOps and SRE<a href=""> Learnsteps</a> 📹 ✍🏾
-- Sharing updates on 
+- Sharing updates on <a href="https://www.linkedin.com/in/saikumar-kale-668096122/">LinkedIn</a>
 
 
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SK_ML-DevOps)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sai-Kale)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SK_ML-DevOps&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sai-Kale&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
