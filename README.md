@@ -10,7 +10,7 @@ Trying to help DevOps, SRE, MLOps and System guys to grow. I am infrastructure, 
 
 
 
-## Find me around the web 🌎: <a href="https://github.com/SK_ML-DevOps">Saikumar Kale</a>
+## Find me around the web 🌎: <a href="https://github.com/Sai-Kale">Saikumar Kale</a>
 - Articles and blogs on DevOps and SRE<a href=""> Learnsteps</a> 📹 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/saikumar-kale-668096122/">LinkedIn</a>
 
